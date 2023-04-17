@@ -1,2 +1,7 @@
 DBcredentials.ini
 venv
+.xls
+.xlsx
+.csv
+__pychache__
+.pyc
